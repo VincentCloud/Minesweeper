@@ -13,6 +13,6 @@ This application was also designed to be simple enough to be realizable without 
 
 These instructions assume you have Java and Eclipse installed.
 
-1. Install JavaFX and create a library for it in Eclipse by following [these instructions](https://openjfx.io/openjfx-docs/#install-javafx)
+1. Install JavaFX and create a library for it in Eclipse by following [these instructions](https://openjfx.io/openjfx-docs/#IDE-Eclipse)
 2. Make sure you call your library `JavaFX14` even if you are using a different version.
 3. When you run the application, from the run configuration, make sure the checkbox "Use the -XstartOnFirstThread argument when launching with SWT" is not checked. 
